@@ -11,7 +11,7 @@
 // ------------------------------------------------------------------------------------------
 
 // Ample i alt de la finestra per defecte
-int g_ViewportWidth = 512;
+int g_ViewportWidth = 1024;
 int g_ViewportHeight = 512;
 
 // Color de fons
