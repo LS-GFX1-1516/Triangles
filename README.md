@@ -1,7 +1,7 @@
 # Triangles
 Two triangles with OpenGL
 
-Base code for Compupter Graphics Course - La Salle BCN 2015/16
+Base code for Computer Graphics Course - La Salle BCN 2015/16
 
 It draws two triangles with color set per vertex.
 It uses Vertex Buffer Objects and a Vertex Array Object.
