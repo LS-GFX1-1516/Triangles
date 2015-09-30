@@ -7,6 +7,7 @@
 
 using namespace std;
 
+
 /*
 Funcio per facilitar la carrega de fitxers.
 */
