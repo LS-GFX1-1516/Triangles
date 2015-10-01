@@ -11,8 +11,8 @@
 // ------------------------------------------------------------------------------------------
 
 // Ample i alt de la finestra per defecte
-int g_ViewportWidth = 512;
-int g_ViewportHeight = 512;
+int g_ViewportWidth = 1024;
+int g_ViewportHeight = 1024;
 
 // Color de fons
 const glm::vec3 g_ColorFons(0.2f, 0.2f, 0.2f);
